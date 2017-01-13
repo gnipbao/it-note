@@ -1,4 +1,4 @@
-# it-note
+## it-note
 https://github.com/bang590/JSPatch （JSPatch 可以让你用 JavaScript 书写原生 iOS APP, 很酷 :+1:  :100: ）
 
 https://realm.io/cn/ （Realm，为移动设备而生 替代SQLite和Core Data。 :+1:  :100: ）
@@ -134,10 +134,41 @@ https://github.com/jgthms/lavalamp.js （加载更多， 动画，非常酷 :+1:
 
 http://alloyteam.github.io/AlloyTouch/ （Smooth scrolling, rotation, pull to refresh, page transition and any motion for the web :+1:  :100:  :100: ）
 
-路由
+http://www.cnblogs.com/lyzg/p/4877277.html (从网易与淘宝的font-size思考前端设计稿与工作流)
+http://www.cnblogs.com/lyzg/p/5058356.html (淘宝弹性布局方案lib-flexible实践)
+http://www.cnblogs.com/lyzg/p/5117324.html (基于淘宝弹性布局方案lib-flexible的问题研究)
+https://github.com/meandmax/lory (支持手势的 slider :+1: )
+
+http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=402077566&idx=1&sn=def3337205c3aec5e0fde2476ee03397&scene=0&key=ac89cba618d2d976159e30761eefe9953dc2030a7d72c1872c445a8caaa0f1d3cc4eb416a1c7cfb82651db48d11f3f90&ascene=0&uin=MjAyNzY1NTU%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.1+build%2815B42%29&version=11020201&pass_ticket=Ot%2FkhKXqAqrGFzCH568zK5zy%2FSd6Yamb01L2dKV6dtY%3D (H5 缓存机制浅析 移动端 Web 加载性能优化 )
+
+http://www.jianshu.com/collection/de345d7149f2 (App产品策划大全 :+1: )
+
+https://modao.cc/ (在线的手机APP原型设计)
+
+http://75team.github.io/novaUI/ (可参考前端移动库建设，Widgetcore由Class.js, Base.js, Widget.js组成。)
+
+http://melonh.com/sharing/slides.html?file=beginner-guide-of-mobile-website#/ (移动端基础 从PC到Mobile)
+
+- 路由
 
 https://github.com/progrape/router （A very simple router for the demo of WeUI）
 
 https://github.com/1340641314/Xrouter （采用原生js实现的前端路由插件）
 
 http://qianduan.guru/2016/08/13/gesture_detection_in_html5/ （HTML5 手势检测原理和实现 ）
+
+- 移动混合开发：
+
+http://www.kerkee.com/ （搜狐， 新一代高性能、低成本，快速开发的跨平台Hybrid框架 :+1:  :100: ）
+
+chemdemo/chemdemo.github.io#12 (Hybrid APP架构设计思路)
+
+- Webapp 移动 bug:
+
+http://caibaojian.com/mobile-knowledge.html
+http://www.cnblogs.com/PeunZhang/p/3407453.html
+http://caibaojian.com/mobile-1px-border.html
+
+
+
+
